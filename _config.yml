@@ -9,7 +9,7 @@ name: BHS Green Team
 description: Berkeley High School's Green Team!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./earth.png
+avatar: https://raw.githubusercontent.com/bhsgreenteam/bhsgreenteam.github.io/master/images/earth.png
 
 #
 # Flags below are optional
